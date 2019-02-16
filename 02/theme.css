@@ -1,0 +1,53 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+    background-color: #f8f8f8;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    width: 30%;
+    text-align: center;
+    font-size: 25px;
+}
+
+td {
+    width: 70%;
+}
+
+.progress{
+    margin-top: 20px;
+    background-color: #e2e2e2;
+}
+
+.progress-bar{
+    background-color: #555555;
+}
+
+#projectShow {
+    margin: auto;
+}
+
+#projectShow>ul>li {
+    list-style: none;
+}
+
+#projectShow>ul>li>a>div {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: 5px solid #555555;
+}
+
+#projectShow>ul>li>a>div>img {
+    margin: auto;
+}
+
+#projectShow>ul>li>a>p {
+    text-align: center;
+    width: 200px;
+    margin: 20px;
+}
