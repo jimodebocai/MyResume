@@ -9,4 +9,6 @@ My online resume project
 <h1>2017.2.17 更新</h1>
 
 通过三天时间，简单的做了个响应式简历~
-最终成果放在03文件夹了，点击 https://htmlpreview.github.io/?https://github.com/jimodebocai/MyResume/blob/master/03/MyResume.html 可以预览
+最终成果放在03文件夹了
+<br>
+<a href="https://htmlpreview.github.io/?https://github.com/jimodebocai/MyResume/blob/master/03/MyResume.html">点此预览</a>
