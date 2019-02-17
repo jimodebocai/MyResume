@@ -1,0 +1,118 @@
+body {
+    background-color: #f8f8f8;
+}
+
+#myProfile{
+    padding: 60px 0;
+}
+
+#myProject, #wordExp, #edu {
+    margin: 30px auto;
+    padding: 30px 0;
+}
+
+h2 {
+    padding-left: 35px;
+    margin: 35px 0px;
+}
+
+.glyphicon{
+    top: 3px;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    width: 30%;
+    text-align: center;
+    font-size: 25px;
+}
+
+td {
+    width: 70%;
+}
+
+.progress{
+    margin-top: 20px;
+    background-color: #e2e2e2;
+}
+
+.progress-bar{
+    background-color: #555555;
+}
+
+#projectShow {
+    margin: auto;
+}
+
+#projectShow>ul>li {
+    list-style: none;
+}
+
+#projectShow>ul>li>a>div {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: 10px double #555555;
+    display: flex;
+    display: -webkit-flex;
+    align-item: center;
+}
+
+#projectShow>ul>li>a>div>img {
+    margin: auto;
+}
+
+#projectShow>ul>li>a>p {
+    text-align: center;
+    width: 200px;
+    margin: 20px;
+}
+
+#workExpDtl>ul>li, #eduDtl>ul>li {
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-left: 30px;
+    list-style: none;
+    border-left: 5px solid;
+}
+
+.workExpDtlCon, .eduDtlCon {
+    font-size: 17px;
+    font-family: "微软雅黑 Light";
+}
+
+.resumeFooter {
+    margin-top: 100px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: #2a2730;
+}
+
+.footerContact>ul {
+    padding-left: 0px;
+}
+
+.footerContact>ul>li {
+    list-style: none;
+    display: inline;
+    margin: 5px;
+}
+
+.footerContact>ul>li>a {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+}
+
+.footerContact>ul>li>a>img {
+    height: 50px;
+    width: 50px;
+}
+
+.footerAut{
+    color: white;
+    margin-top: 20px;
+}
