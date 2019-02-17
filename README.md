@@ -9,3 +9,4 @@ My online resume project
 <h1>2017.2.17 更新</h1>
 
 通过三天时间，简单的做了个响应式简历~
+最终成果放在03文件夹了，用https://htmlpreview.github.io/ 可以预览
